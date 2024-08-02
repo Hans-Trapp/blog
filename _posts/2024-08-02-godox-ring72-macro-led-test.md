@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: GODOX RING72 Macro LED - Test
 description: Un éclairage macro annulaire en flux continu
 author: Hans-Trapp
